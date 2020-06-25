@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
- long long    int t;
-    cin>>t;
-    while (t--)
+ long long    int T;
+    cin>>T;
+    while (T--)
     {
         string s;
         cin>>s;
